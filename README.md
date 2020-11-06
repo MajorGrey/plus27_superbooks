@@ -1,5 +1,5 @@
 
-## Inastalling
+## Installing
 
 - clone this repository.
 - rename .env.example to .env
